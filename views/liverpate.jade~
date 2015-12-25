@@ -1,0 +1,5 @@
+extends layout
+
+block content
+  h1 Let's eat some liverpate!!!
+  img(src='http://www.google.ca/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwi9kOPf8vXJAhUD5iYKHZpABW4QjRwIBw&url=http%3A%2F%2Fwww.summerislesfoods.co.uk%2Fprod-45%2Fchicken-liver-pate%2F&psig=AFQjCNEJHYGobcopDLTg3aRz9d4swc1sDA&ust=1451094576886078')
